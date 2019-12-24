@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,cACE,qBAAsB,CACtB,kBAAmB,CACnB,YACF","file":"main.dbb679b0.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\n.main-wrapper {\n  padding: 25vh 0 0 25vw;\n  align-items: center;\n  height: 100vh;\n}\n"]}
